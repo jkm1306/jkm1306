@@ -1,55 +1,83 @@
-👋 Hey, I’m Jerome
+<h1 align="left">👋 Hey, I’m Jerome</h1>
 
-Welcome to my corner of GitHub! 🚀
+###
 
-I’m a 3rd year Software Engineering student at ZCAS University, Zambia, passionate about turning ideas into practical, user-friendly software. My journey is all about learning, building, and sharing—whether it’s creating full-stack apps, experimenting with mobile development, or crafting tools that make life simpler.
+<p align="left">Welcome to my corner of GitHub! 🚀<br><br>I’m a 3rd year Software Engineering student at ZCAS University, Zambia, passionate about turning ideas into practical, user-friendly software. My journey is all about learning, building, and sharing—whether it’s creating full-stack apps, experimenting with mobile development, or crafting tools that make life simpler.</p>
 
-🌟 About Me
+###
 
-🎓 Studying Software Engineering at ZCAS University.
+<h3 align="left">🌟 About Me</h3>
 
-💻 Currently building Attevia, an event management platform with QR codes, guest management, and digital galleries.
+###
 
-🐍 I enjoy working with Python & Django, and I’m learning Flutter + React Native for mobile development.
+<p align="left">- 🎓 Studying Software Engineering at ZCAS University.<br><br>- 💻 Currently building Attevia (attevia.com), an event management platform with QR codes, guest management, and digital galleries and has worked on an e-learning platform called Kopala Tutor (kopalatutor.com).<br><br>- 🐍 I enjoy working with Python & Django, and I’m learning Flutter + React Native for mobile development.<br><br>- 🎨 I like blending clean design with solid functionality, making tech that feels approachable.<br><br>- 📚 Always exploring new frameworks and tools to sharpen my craft.</p>
 
-🎨 I like blending clean design with solid functionality, making tech that feels approachable.
+###
 
-📚 Always exploring new frameworks and tools to sharpen my craft.
+<h3 align="left">🛠️ Tech Stack</h3>
 
-🛠️ Tech Stack
+###
 
-Languages & Frameworks
+<h4 align="left">Languages & Frameworks</h4>
 
-Python 🐍 | JavaScript ⚡ | Dart/Flutter 🌈
+###
 
-Django | React Native | Expo
+<p align="left">- Python 🐍 | JavaScript ⚡ | Dart/Flutter 🌈<br><br>- Django | React Native | Expo</p>
 
-Databases & Tools
+###
 
-PostgreSQL | SQLite | MySQL
+<h4 align="left">Databases & Tools</h4>
 
-Git | Docker
+###
 
-🚧 Current Projects
+<p align="left">- PostgreSQL | SQLite | MySQL<br><br>- Git | Docker</p>
 
-Attevia → An event & guest management system with QR-based check-ins.
+###
 
-Quizzes Platform → A Django-based system for dynamic quizzes, chapters, and reporting.
+<h3 align="left">🚧 Current Projects</h3>
 
-Mobile-first Experiments → Testing ideas with Flutter & React Native.
+###
 
-🌍 A Little More About Me
+<h4 align="left">Attevia</h4>
 
-💡 I enjoy building projects that connect people and solve real-world problems.
+###
 
-⚡ Always up for a challenge that stretches my skills.
+<p align="left">→ An event & guest management system with QR-based check-ins.</p>
 
-🎯 Believer in learning by doing—because every line of code is part of the journey.
+###
 
-📫 Let’s Connect
+<h4 align="left">Kopala Tutor</h4>
 
-💼 LinkedIn
+###
 
-✉️ Reach me at: your email here
+<p align="left">→ A Django-based system for dynamic quizzes, chapters, and reporting.</p>
 
-“Every project I build is a step closer to mastering my craft.” 🚀
+###
+
+<h4 align="left">Mobile-first Experiments</h4>
+
+###
+
+<p align="left">→ Testing ideas with Flutter & React Native.</p>
+
+###
+
+<h3 align="left">🌍 A Little More About Me</h3>
+
+###
+
+<p align="left">- 💡 I enjoy building projects that connect people and solve real-world problems.<br><br>-⚡ Always up for a challenge that stretches my skills.<br><br>- 🎯 Believer in learning by doing—because every line of code is part of the journey.</p>
+
+###
+
+<h3 align="left">📫 Let’s Connect</h3>
+
+###
+
+<p align="left">- 💼 LinkedIn (www.linkedin.com/in/jerome-kambafwile-32825926a)<br><br>✉️ Reach me at: jerome@attevia.com</p>
+
+###
+
+<h1 align="left">“Every project I build is a step closer to mastering my craft.” 🚀</h1>
+
+###
